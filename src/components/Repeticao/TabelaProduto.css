@@ -1,0 +1,19 @@
+.Container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+table,
+td,
+th {
+  border: 1px solid black;
+}
+
+th {
+  background-color: #283cae;
+}
+
+.Container .Par {
+  background-color: #ddd;
+}
